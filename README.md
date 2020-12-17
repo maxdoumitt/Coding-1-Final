@@ -1,2 +1,4 @@
 # Coding-1-Final
  These are the starter files for F2020 Coding 1
+
+this site is about me. There are a few pages on the site that all have something to do with different things about me. On the first page of the website titled Home page, or index.html, there is a carousel with 3 pictures from my phone (my car, Hayden, and my computer). Also there is a footer that is on every page that goes to the live link for the repository. On the second page, or contact.html, there are a couple ways to contact me and the footer. On the third page, or about.html, there is a paragraph that tells a little bit about me and a photo that I use as my pfp on most things.
